@@ -35,10 +35,6 @@ def find_cool(array)
 end
 
 def organize_schools(array)
- array.each do |school, location|
-   location.each do |key, value|
-   binding.pry
- end
 end
 
 
